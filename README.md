@@ -26,9 +26,14 @@ political vocabulary, and economic discourse impacted voter choices during one o
 American history. It also underscores the critical role of methodological design in computational media studies, 
 with implications for political economy, communication, and historical NLP.
 
-#Code Repository
+# Code Repository
 
 Main Codebase: Preprocessing, VADER sentiment scoring, lexicon-based counting
 
 Visualization Script: Generates election-cycle plots, scatter matrices, regional trend lines
 
+# Output 
+The output includes all the images and visualizations of the data analysis. It s
+
+# Caution
+The Maincode.ipynb is too long and might give a headache to the reader. 
