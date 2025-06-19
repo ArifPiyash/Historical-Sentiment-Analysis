@@ -32,6 +32,11 @@ Main Codebase: Preprocessing, VADER sentiment scoring, lexicon-based counting
 
 Visualization Script: Generates election-cycle plots, scatter matrices, regional trend lines
 
+
+# Reference:
+1. Melissa Dell (Harvard), Jacob Carlson (Harvard), Tom Bryan (Harvard) , Emily Silcock (Harvard), Abhishek Arora (Harvard), Zejiang Shen (MIT), Luca D'Amico-Wong (Harvard), Quan Le (Princeton), Pablo Querubin (NYU), Leander Heldring (Kellog School of Business)
+
+
 # Output 
 The output includes all the images and visualizations of the data analysis. An important image for viewing is output 14. 
 
