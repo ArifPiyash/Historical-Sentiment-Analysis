@@ -33,7 +33,7 @@ Main Codebase: Preprocessing, VADER sentiment scoring, lexicon-based counting
 Visualization Script: Generates election-cycle plots, scatter matrices, regional trend lines
 
 # Output 
-The output includes all the images and visualizations of the data analysis. It s
+The output includes all the images and visualizations of the data analysis. An important image for viewing is output 14. 
 
 # Caution
 The Maincode.ipynb is too long and might give a headache to the reader. 
