@@ -34,11 +34,11 @@ Visualization Script: Generates election-cycle plots, scatter matrices, regional
 
 
 # Reference:
-1. Melissa Dell (Harvard), Jacob Carlson (Harvard), Tom Bryan (Harvard) , Emily Silcock (Harvard), Abhishek Arora (Harvard), Zejiang Shen (MIT), Luca D'Amico-Wong (Harvard), Quan Le (Princeton), Pablo Querubin (NYU), Leander Heldring (Kellog School of Business)
+1. @misc{dell2023american, title={American Stories: A Large-Scale Structured Text Dataset of Historical U.S. Newspapers}, author={Melissa Dell and Jacob Carlson and Tom Bryan and Emily Silcock and Abhishek Arora and Zejiang Shen and Luca D'Amico-Wong and Quan Le and Pablo Querubin and Leander Heldring}, year={2023}, eprint={2308.12477}, archivePrefix={arXiv}, primaryClass={cs.CL} }
+
+
 
 
 # Output 
 The output includes all the images and visualizations of the data analysis. An important image for viewing is output 14. 
 
-# Caution
-The Maincode.ipynb is too long and might give a headache to the reader. 
