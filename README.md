@@ -39,6 +39,6 @@ Visualization Script: Generates election-cycle plots, scatter matrices, regional
 # Output 
 The output includes all the images and visualizations of the data analysis. An important image for viewing is output 14. 
 
-# This is an independent work and does not have a paper attached for explanation.
+# This is an independent work and does not have a paper written for an explanation.
 
 
