@@ -16,7 +16,7 @@ Franklin D. Roosevelt (FDR) across the 1932–1944 election cycles. Specifically
 2. The framing of political and economic language.
 3. Regional variation in media tone and its impact on voting behavior
 
-# Methodological Robustness Test**
+# Methodological Robustness Test
 
 The document tests three different analytical approaches to measure how newspaper content correlates with Roosevelt's vote share across 10 regional election pairs (1932–1944):
 
