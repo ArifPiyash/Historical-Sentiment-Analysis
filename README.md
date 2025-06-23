@@ -57,7 +57,7 @@ Results: Media sentiment may have modestly influenced voter behavior in Roosevel
  Key Results:
 
  Correlation**: -0.782 (Strong negative)
- Positive/Negative Ratio**: 3.13 (much more positive political language than negative)
+ Positive/Negative Ratio: 3.13 (much more positive political language than negative)
  Insight: Surprisingly, more positive political language** in newspapers correlated with **lower vote shares for Roosevelt.
 
 By Year:
@@ -69,22 +69,21 @@ By Year:
 | 1940 | 2,997.7                 | 63.0%                    |
 | 1944 | 4,284.7                 | 65.4%                    |
 
-* **Interpretation**:
+  Interpretation:
 
    Possibly, opposition papers** were using positive political terms to critique Roosevelt indirectly.
    Rhetorical positivity might not equate to endorsement of Roosevelt’s policies.
 
----
 
-### **5. Economic Language → Roosevelt Vote Share**
+# Economic Language → Roosevelt Vote Share**
 
-#### Key Results:
+Key Results:
 
-* **Correlation**: **-0.768** (Strong negative)
-* **Recovery/Crisis Ratio**: 2.67 (more positive economic coverage)
-* **Insight**: Like political language, more **positive economic terms** (e.g., "growth", "recovery") were linked with **lower** Roosevelt support.
+Correlation: -0.768 (Strong negative)
+Recovery/Crisis Ratio: 2.67 (more positive economic coverage)
+Insight: Like political language, more positive economic terms (e.g., "growth", "recovery") were linked with lower Roosevelt support.
 
-#### Regional Analysis:
+Regional Analysis:
 
 | Region  | Avg Economic Sentiment | Avg Vote Share |
 | ------- | ---------------------- | -------------- |
@@ -92,28 +91,28 @@ By Year:
 | West    | 1,835.2                | 62.0%          |
 | South   | 50.0                   | 80.6%          |
 
-* **Interpretation**: Possible reasons:
+   Interpretation:
 
-  * Positive economic news may reflect **less urgency for Roosevelt's New Deal policies**.
-  * **Opposition media** might have downplayed crises by emphasizing recovery narratives.
-
----
-
-### **6. Roosevelt-Specific Language Impact**
-
-#### Key Results:
-
-* **Correlation**: **+0.066** (Very weak)
-
-* **Sample Size**: Over 5.7 million articles
-
-* **Insight**: Direct mention or praise of Roosevelt had **little predictive power** on actual votes.
-
-* **Interpretation**: Roosevelt's support may have been more **personality- or policy-driven**, rather than based on how frequently he was mentioned or how favorably.
+   Positive economic news may reflect less urgency for Roosevelt's New Deal policies**.
+   Opposition media** might have downplayed crises by emphasizing recovery narratives.
 
 ---
 
-# 7. Sentiment Evolution Over Time
+# Roosevelt-Specific Language Impact**
+
+  Key Results:
+
+  Correlation: +0.066 (Very weak)
+
+  Sample Size: Over 5.7 million articles
+
+  Insight: Direct mention or praise of Roosevelt had **little predictive power** on actual votes.
+
+  Interpretation: Roosevelt's support may have been more **personality- or policy-driven**, rather than based on how frequently he was mentioned or how favorably.
+
+---
+
+#  Sentiment Evolution Over Time
 
 This section analyzes how newspaper sentiment evolved across the four elections and compares it to Roosevelt’s vote share.
 
@@ -137,9 +136,9 @@ Interpretation: Sentiment may not directly explain electoral shifts; other facto
 
   This analysis demonstrates the **complex relationship** between newspaper content and voter behavior:
 
-  Not all positive language helps**: In both political and economic contexts, upbeat coverage sometimes **correlated negatively** with Roosevelt's support.
-  Sentiment influence is real but nuanced**: While general sentiment showed a moderate correlation, **word choice and context mattered** deeply.
-  Methodology impacts results**: How data is selected and processed significantly alters the strength and direction of correlations.
+  Not all positive language helps**: In both political and economic contexts, upbeat coverage sometimes correlated negatively with Roosevelt's support.
+  Sentiment influence is real but nuanced: While general sentiment showed a moderate correlation, word choice and context mattered deeply.
+  Methodology impacts results: How data is selected and processed significantly alters the strength and direction of correlations.
 
 
 # Project Contribution
